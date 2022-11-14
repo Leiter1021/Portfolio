@@ -81,6 +81,8 @@ a{
 }
 .about img{
   float:left;
+  width:50%;
+  height:50%;
 }
 .contact-wrapper{
   text-align:center;
